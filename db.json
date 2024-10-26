@@ -1,0 +1,8 @@
+{
+    "units": [
+      { "id": 1, "name": "Finance", "status": "active", "establishedDate": "2015-09-01" }
+    ],
+    "employees": [
+      { "id": 1, "name": "John Doe", "unitId": 1, "gender": "male", "education": "Bachelor", "mobile": "1234567890" }
+    ]
+  }
